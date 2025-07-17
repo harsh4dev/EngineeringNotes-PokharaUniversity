@@ -95,7 +95,7 @@ This repository is maintained by students and contributors. All materials are sh
 
 ## 📧 Contact
 
-For issues, suggestions, or collaboration, feel free to [open an issue](https://github.com/yourusername/PU-Engineering-Notes/issues) or email us at: **your-email@example.com**
+For issues, suggestions, or collaboration, feel free to [open an issue](https://github.com/harsh4dev/EngineeringNotes-PokharaUniversity/issues) or email us at: **harshchy143@gmail.com**
 
 ---
 
