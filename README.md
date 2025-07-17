@@ -21,24 +21,16 @@ This repository aims to simplify and streamline access to engineering study reso
 ## 📁 Repository Structure
 
 ```bash
-PU-Engineering-Notes/
+EngineeringNotes-PokharaUniversity/
 │
-├── Civil-Engineering/
-│   ├── Semester-1/
-│   │   ├── Syllabus.pdf
-│   │   ├── Lecture-Slides/
-│   │   ├── Past-Papers/
-│   │   └── Notes/
-│   └── ...
-│
-├── Computer-Engineering/
-│   ├── Semester-1/
-│   └── ...
-│
-├── Shared-Resources/
-│   ├── Mathematics/
-│   ├── Physics/
-│   └── Communication-Skills/
+├── Subject-Name/
+│   ├── notes.pdf
+│   ├── notes.pdf
+│   ├── notes.pdf
+├── Subject-Name/
+│   ├── notes.pdf
+│   ├── notes.pdf
+│   ├── notes.pdf
 │
 └── README.md
 ```
