@@ -25,12 +25,12 @@ EngineeringNotes-PokharaUniversity/
 │
 ├── Subject-Name/
 │   ├── notes.pdf
-│   ├── notes.pdf
-│   ├── notes.pdf
+│   ├── questions.pdf
+│   ├── syllabus.pdf
 ├── Subject-Name/
+│   ├── syllabus.pdf
 │   ├── notes.pdf
-│   ├── notes.pdf
-│   ├── notes.pdf
+│   ├── questions.pdf
 │
 └── README.md
 ```
